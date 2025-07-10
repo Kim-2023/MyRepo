@@ -5,7 +5,7 @@ Repo for the `GitHub Actions Fundamentals` training.
 ## 👉 Objectives
 
 -  I Understand the __basic components__ and vocabulary of GitHub Actions
-- Understand the __YAML__ syntax (scalar types, quotes, literal blocks, maps, and sequences)
+- I Understand the __YAML__ syntax (scalar types, quotes, literal blocks, maps, and sequences)
 - Understand the __workflow syntax__ and how to write workflows using intellisence
 - Understand events that can __trigger__ workflows
 - Learn the __context and expression syntax__ as well as workflow commands
